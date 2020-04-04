@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chordy/static/css/main.b3c8cece.chunk.css",
-    "main.js": "/chordy/static/js/main.f743ba64.chunk.js",
-    "main.js.map": "/chordy/static/js/main.f743ba64.chunk.js.map",
+    "main.js": "/chordy/static/js/main.ee78ac11.chunk.js",
+    "main.js.map": "/chordy/static/js/main.ee78ac11.chunk.js.map",
     "runtime-main.js": "/chordy/static/js/runtime-main.dbae0500.js",
     "runtime-main.js.map": "/chordy/static/js/runtime-main.dbae0500.js.map",
     "static/js/2.6aa3ff17.chunk.js": "/chordy/static/js/2.6aa3ff17.chunk.js",
     "static/js/2.6aa3ff17.chunk.js.map": "/chordy/static/js/2.6aa3ff17.chunk.js.map",
     "index.html": "/chordy/index.html",
-    "precache-manifest.8e26f6b3c7513c6e8d2aaf2cadb72cf4.js": "/chordy/precache-manifest.8e26f6b3c7513c6e8d2aaf2cadb72cf4.js",
+    "precache-manifest.69e60f11d7e04e4527615075fe19c3e7.js": "/chordy/precache-manifest.69e60f11d7e04e4527615075fe19c3e7.js",
     "service-worker.js": "/chordy/service-worker.js",
     "static/css/main.b3c8cece.chunk.css.map": "/chordy/static/css/main.b3c8cece.chunk.css.map",
     "static/js/2.6aa3ff17.chunk.js.LICENSE.txt": "/chordy/static/js/2.6aa3ff17.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dbae0500.js",
     "static/js/2.6aa3ff17.chunk.js",
     "static/css/main.b3c8cece.chunk.css",
-    "static/js/main.f743ba64.chunk.js"
+    "static/js/main.ee78ac11.chunk.js"
   ]
 }
