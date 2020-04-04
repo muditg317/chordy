@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chordy/static/css/main.b3c8cece.chunk.css",
+    "main.js": "/chordy/static/js/main.7721784d.chunk.js",
+    "main.js.map": "/chordy/static/js/main.7721784d.chunk.js.map",
+    "runtime-main.js": "/chordy/static/js/runtime-main.dbae0500.js",
+    "runtime-main.js.map": "/chordy/static/js/runtime-main.dbae0500.js.map",
+    "static/js/2.6aa3ff17.chunk.js": "/chordy/static/js/2.6aa3ff17.chunk.js",
+    "static/js/2.6aa3ff17.chunk.js.map": "/chordy/static/js/2.6aa3ff17.chunk.js.map",
+    "index.html": "/chordy/index.html",
+    "precache-manifest.77525b43b94ea711475d71ddd9c7da5c.js": "/chordy/precache-manifest.77525b43b94ea711475d71ddd9c7da5c.js",
+    "service-worker.js": "/chordy/service-worker.js",
+    "static/css/main.b3c8cece.chunk.css.map": "/chordy/static/css/main.b3c8cece.chunk.css.map",
+    "static/js/2.6aa3ff17.chunk.js.LICENSE.txt": "/chordy/static/js/2.6aa3ff17.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chordy/static/media/logo.2d46fc74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbae0500.js",
+    "static/js/2.6aa3ff17.chunk.js",
+    "static/css/main.b3c8cece.chunk.css",
+    "static/js/main.7721784d.chunk.js"
+  ]
+}
