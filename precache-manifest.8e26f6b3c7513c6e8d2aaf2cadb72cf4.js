@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f1bdd1d8f131958a4114b013e224378",
+    "revision": "36c6ed707969d1e12a29a80b0965f856",
     "url": "/chordy/index.html"
   },
   {
-    "revision": "d72598d1c2aaa1138c61",
+    "revision": "8c43288a4cdc6afc2b56",
     "url": "/chordy/static/css/main.b3c8cece.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chordy/static/js/2.6aa3ff17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d72598d1c2aaa1138c61",
-    "url": "/chordy/static/js/main.7721784d.chunk.js"
+    "revision": "8c43288a4cdc6afc2b56",
+    "url": "/chordy/static/js/main.f743ba64.chunk.js"
   },
   {
     "revision": "1fa9ef7cafacd8c24cfe",
